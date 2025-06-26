@@ -1,1 +1,3 @@
 # AIML_TASK3
+This project implements Simple Linear Regression to predict house prices based on the area of the house using the Housing dataset. It uses Python libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn to load and preprocess the data, train a linear regression model, evaluate it using MAE, MSE, and R² Score, and visualize the results with a scatter plot and regression line. The script focuses only on using the 'area' feature for prediction and provides a clear understanding of how simple linear regression works in practice.[Task_3_Linear_Regression.pdf](https://github.com/user-attachments/files/20929057/Task_3_Linear_Regression.pdf)
+
